@@ -8,7 +8,7 @@ Add this to `Gemfile`:
 
     group :development do
       gem 'capistrano', '~> 3.11.0'
-      gem 'capistrano-master-key', '~> 1.0.0'
+      gem 'capistrano-master-key', '~> 1.0.0' 
     end
 
 And then:
