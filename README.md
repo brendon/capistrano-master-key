@@ -26,7 +26,7 @@ And then:
 
 - Add your master_key_local_path setting to your deploy.rb file (or wherever you need if you have multi-repo setup)
 
-    `set :master_key_local_path, "/home/myname/mycode/repo_path/config/master.key"
+    `set :master_key_local_path, "/home/myname/mycode/repo_path/config/master.key"`
 
 - You will have now a working master_key:setup
 
